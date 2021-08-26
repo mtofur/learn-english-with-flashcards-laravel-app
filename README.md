@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+Can learn english with this laravel app.
+You can: easy, edit-delete function, update/add image on admin-panel. I will be sharing admin panel login details.
+I didn't give so much attention front-end. Is the most important thing is back-end for me.
+I think this app will be provide for learning english to a lot of person.
+
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
