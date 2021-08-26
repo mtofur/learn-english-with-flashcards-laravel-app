@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+body {
+  font-family: 'Poppins', sans-serif;
+  color:black;
+}
+
+.row-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+[class*="col-"] {
+  margin-bottom: 30px;
+}
+
+p>a.youglish {
+  color: #e00000;
+    text-underline-position: under;
+}
+
+p>a.youglish:hover {
+  text-decoration: none;
+  color: #ddd;
+}
+
+.v:hover {
+  background: darkred;
+  color:#e2e2e2;
+  border-radius: 5px;
+}
+
+.content {
+  height: 100%;
+  padding: 20px 20px 10px;
+
+}
+
+.wordPic {
+  width: 300px;
+  height: 200px;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.wordArea {
+  padding:2px;
+}
+
+p.englishWord {
+  font-family: 'Poppins', sans-serif;
+  font-weight:800;
+}
+
+p.englishSentence {
+  /* line-height: 4px; */
+  letter-spacing: 1.5px;
+  font-size:medium;
+}
+
+p.turkishWord{
+  font-style: italic;
+  font-size: smaller;
+}
+
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: #d20000 !important;
+    border-color: #fff; }
+
+    .page-link {
+      color:black;
+    }
