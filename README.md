@@ -7,6 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.mustafatofur.com/le/lenglish.jpg" width="400"></a></p>
+
+
 Can learn english with this laravel app.
 You can: easy, edit-delete function, update/add image on admin-panel. I will be sharing admin panel login details.
 I didn't give so much attention front-end. Is the most important thing is back-end for me.
